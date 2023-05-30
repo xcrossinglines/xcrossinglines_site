@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.47d20173.css",
-    "main.js": "/static/js/main.c5118457.js",
+    "main.css": "/static/css/main.8fc54f22.css",
+    "main.js": "/static/js/main.a8e745bb.js",
     "static/js/787.b282cf0c.chunk.js": "/static/js/787.b282cf0c.chunk.js",
     "static/media/TsnCs.pdf": "/static/media/TsnCs.a09ff97ec35e2ea9a472.pdf",
     "static/media/Nunito-Medium.ttf": "/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
@@ -28,12 +28,12 @@
     "static/media/home.svg": "/static/media/home.6c9a046d8c9b30a7b4c403eaf3b2f94e.svg",
     "static/media/one_ton.svg": "/static/media/one_ton.d43c17d44cc0cfecf12d3ccb57a84cc2.svg",
     "static/media/four_ton.svg": "/static/media/four_ton.7fe054c86db4ba9f5e548297a4176299.svg",
-    "main.47d20173.css.map": "/static/css/main.47d20173.css.map",
-    "main.c5118457.js.map": "/static/js/main.c5118457.js.map",
+    "main.8fc54f22.css.map": "/static/css/main.8fc54f22.css.map",
+    "main.a8e745bb.js.map": "/static/js/main.a8e745bb.js.map",
     "787.b282cf0c.chunk.js.map": "/static/js/787.b282cf0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47d20173.css",
-    "static/js/main.c5118457.js"
+    "static/css/main.8fc54f22.css",
+    "static/js/main.a8e745bb.js"
   ]
 }
