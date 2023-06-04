@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e442f0e9.css",
-    "main.js": "/static/js/main.34fed3b5.js",
+    "main.js": "/static/js/main.412a40b8.js",
     "static/js/787.b282cf0c.chunk.js": "/static/js/787.b282cf0c.chunk.js",
     "static/media/TsnCs.pdf": "/static/media/TsnCs.a09ff97ec35e2ea9a472.pdf",
     "static/media/Nunito-Medium.ttf": "/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
@@ -22,18 +22,18 @@
     "static/media/cost.svg": "/static/media/cost.1f693bc145f6faf0e519402e59da0dfa.svg",
     "static/media/quote.svg": "/static/media/quote.fd9bb146ed1a7bdf79ca42c8c1bddde4.svg",
     "static/media/ppe.svg": "/static/media/ppe.481c9eb73de0a67ac0a4fab9f786bc81.svg",
-    "index.html": "/index.html",
     "static/media/delivery.svg": "/static/media/delivery.2f905ca92d9fd80344fe525d2dc4a130.svg",
+    "index.html": "/index.html",
     "static/media/one_point_five_ton.svg": "/static/media/one_point_five_ton.a42b8aff66bf24982f9e6c324ac0b0aa.svg",
     "static/media/home.svg": "/static/media/home.6c9a046d8c9b30a7b4c403eaf3b2f94e.svg",
     "static/media/one_ton.svg": "/static/media/one_ton.d43c17d44cc0cfecf12d3ccb57a84cc2.svg",
     "static/media/four_ton.svg": "/static/media/four_ton.7fe054c86db4ba9f5e548297a4176299.svg",
     "main.e442f0e9.css.map": "/static/css/main.e442f0e9.css.map",
-    "main.34fed3b5.js.map": "/static/js/main.34fed3b5.js.map",
+    "main.412a40b8.js.map": "/static/js/main.412a40b8.js.map",
     "787.b282cf0c.chunk.js.map": "/static/js/787.b282cf0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e442f0e9.css",
-    "static/js/main.34fed3b5.js"
+    "static/js/main.412a40b8.js"
   ]
 }
