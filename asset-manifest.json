@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2913a780.css",
-    "main.js": "/static/js/main.3c5f5825.js",
+    "main.css": "/static/css/main.fd2d5717.css",
+    "main.js": "/static/js/main.07796da3.js",
     "static/js/787.b282cf0c.chunk.js": "/static/js/787.b282cf0c.chunk.js",
     "static/media/TsnCs.pdf": "/static/media/TsnCs.a09ff97ec35e2ea9a472.pdf",
     "static/media/Nunito-Medium.ttf": "/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
@@ -15,25 +15,25 @@
     "static/media/cover-image.svg": "/static/media/cover-image.edbf96050abf0f6b9996.svg",
     "static/media/eight_ton.svg": "/static/media/eight_ton.b9bb63bda8e98187c79293c522511991.svg",
     "static/media/cancellation-fee.svg": "/static/media/cancellation-fee.48e7dc642d73c2c58464c27a40dde45f.svg",
-    "static/media/logo.svg": "/static/media/logo.515b7e1052405e0964149730a0d1a34c.svg",
+    "static/media/logo.svg": "/static/media/logo.bec2ca597f0ed34fc6e8029b2b5c7d3e.svg",
     "static/media/garden-refuse.svg": "/static/media/garden-refuse.020c6a396bf4b031c320850d7079cac5.svg",
     "static/media/maintained-vehicles.svg": "/static/media/maintained-vehicles.6c07669d8e7c9ee4721e2e7f0e8b3705.svg",
     "static/media/damage-tolerance.svg": "/static/media/damage-tolerance.189b6b3613373b5636daa87475fa7a12.svg",
     "static/media/cost.svg": "/static/media/cost.1f693bc145f6faf0e519402e59da0dfa.svg",
     "static/media/quote.svg": "/static/media/quote.fd9bb146ed1a7bdf79ca42c8c1bddde4.svg",
     "static/media/ppe.svg": "/static/media/ppe.481c9eb73de0a67ac0a4fab9f786bc81.svg",
-    "static/media/delivery.svg": "/static/media/delivery.2f905ca92d9fd80344fe525d2dc4a130.svg",
+    "static/media/delivery.svg": "/static/media/delivery.92b01333126d658d2c2e6fae94a00cce.svg",
     "index.html": "/index.html",
     "static/media/one_point_five_ton.svg": "/static/media/one_point_five_ton.a42b8aff66bf24982f9e6c324ac0b0aa.svg",
-    "static/media/home.svg": "/static/media/home.6c9a046d8c9b30a7b4c403eaf3b2f94e.svg",
+    "static/media/home.svg": "/static/media/home.284b5f817c87e938c1204a2a8e1a626c.svg",
     "static/media/one_ton.svg": "/static/media/one_ton.d43c17d44cc0cfecf12d3ccb57a84cc2.svg",
     "static/media/four_ton.svg": "/static/media/four_ton.7fe054c86db4ba9f5e548297a4176299.svg",
-    "main.2913a780.css.map": "/static/css/main.2913a780.css.map",
-    "main.3c5f5825.js.map": "/static/js/main.3c5f5825.js.map",
+    "main.fd2d5717.css.map": "/static/css/main.fd2d5717.css.map",
+    "main.07796da3.js.map": "/static/js/main.07796da3.js.map",
     "787.b282cf0c.chunk.js.map": "/static/js/787.b282cf0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2913a780.css",
-    "static/js/main.3c5f5825.js"
+    "static/css/main.fd2d5717.css",
+    "static/js/main.07796da3.js"
   ]
 }
