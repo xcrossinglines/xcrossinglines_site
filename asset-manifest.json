@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.06f68c77.css",
-    "main.js": "/static/js/main.17454a31.js",
+    "main.js": "/static/js/main.0833845a.js",
     "static/js/787.b282cf0c.chunk.js": "/static/js/787.b282cf0c.chunk.js",
     "static/media/TsnCs.pdf": "/static/media/TsnCs.a09ff97ec35e2ea9a472.pdf",
     "static/media/Nunito-Medium.ttf": "/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
@@ -30,11 +30,11 @@
     "static/media/one_ton.svg": "/static/media/one_ton.d43c17d44cc0cfecf12d3ccb57a84cc2.svg",
     "static/media/four_ton.svg": "/static/media/four_ton.7fe054c86db4ba9f5e548297a4176299.svg",
     "main.06f68c77.css.map": "/static/css/main.06f68c77.css.map",
-    "main.17454a31.js.map": "/static/js/main.17454a31.js.map",
+    "main.0833845a.js.map": "/static/js/main.0833845a.js.map",
     "787.b282cf0c.chunk.js.map": "/static/js/787.b282cf0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06f68c77.css",
-    "static/js/main.17454a31.js"
+    "static/js/main.0833845a.js"
   ]
 }
