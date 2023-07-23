@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7919d02b.css",
-    "main.js": "/static/js/main.975cddd2.js",
+    "main.js": "/static/js/main.5a4f7e0c.js",
     "static/js/787.b282cf0c.chunk.js": "/static/js/787.b282cf0c.chunk.js",
     "static/media/TsnCs.pdf": "/static/media/TsnCs.a09ff97ec35e2ea9a472.pdf",
     "static/media/cover-image.svg": "/static/media/cover-image.0e8b805c9979d3babc2e.svg",
@@ -14,27 +14,27 @@
     "static/media/Nunito-Black.ttf": "/static/media/Nunito-Black.969e95ce4a719e43f654.ttf",
     "static/media/Nunito-ExtraLight.ttf": "/static/media/Nunito-ExtraLight.52e1b77fe0519dcdcc7f.ttf",
     "static/media/team.svg": "/static/media/team.dcc21acabf037bad3a404abc7a0ed418.svg",
-    "static/media/eight_ton.svg": "/static/media/eight_ton.b9bb63bda8e98187c79293c522511991.svg",
     "static/media/cancellation-fee.svg": "/static/media/cancellation-fee.48e7dc642d73c2c58464c27a40dde45f.svg",
     "static/media/logo.svg": "/static/media/logo.bec2ca597f0ed34fc6e8029b2b5c7d3e.svg",
     "static/media/garden-refuse.svg": "/static/media/garden-refuse.020c6a396bf4b031c320850d7079cac5.svg",
     "static/media/maintained-vehicles.svg": "/static/media/maintained-vehicles.6c07669d8e7c9ee4721e2e7f0e8b3705.svg",
     "static/media/damage-tolerance.svg": "/static/media/damage-tolerance.189b6b3613373b5636daa87475fa7a12.svg",
+    "static/media/four_ton.svg": "/static/media/four_ton.72c2a1f8762302aa7109ee44a371ce1e.svg",
     "static/media/home.svg": "/static/media/home.c8711ecc70a1d016b2943700322ea4ff.svg",
     "static/media/cost.svg": "/static/media/cost.1f693bc145f6faf0e519402e59da0dfa.svg",
+    "static/media/one_ton.svg": "/static/media/one_ton.9d3b1c58bacbd19d01f286ee2df0da5e.svg",
     "static/media/delivery.svg": "/static/media/delivery.ea6b19661c703af93bc7842af8844e41.svg",
+    "static/media/one_point_five_ton.svg": "/static/media/one_point_five_ton.32dae6f86ae987e698284c31fa6fe8e2.svg",
     "static/media/quote.svg": "/static/media/quote.fd9bb146ed1a7bdf79ca42c8c1bddde4.svg",
+    "static/media/eight_ton.svg": "/static/media/eight_ton.01000eb394d3ad2772eacc6ffa0bf911.svg",
     "static/media/ppe.svg": "/static/media/ppe.481c9eb73de0a67ac0a4fab9f786bc81.svg",
     "index.html": "/index.html",
-    "static/media/one_point_five_ton.svg": "/static/media/one_point_five_ton.a42b8aff66bf24982f9e6c324ac0b0aa.svg",
-    "static/media/one_ton.svg": "/static/media/one_ton.d43c17d44cc0cfecf12d3ccb57a84cc2.svg",
-    "static/media/four_ton.svg": "/static/media/four_ton.7fe054c86db4ba9f5e548297a4176299.svg",
     "main.7919d02b.css.map": "/static/css/main.7919d02b.css.map",
-    "main.975cddd2.js.map": "/static/js/main.975cddd2.js.map",
+    "main.5a4f7e0c.js.map": "/static/js/main.5a4f7e0c.js.map",
     "787.b282cf0c.chunk.js.map": "/static/js/787.b282cf0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7919d02b.css",
-    "static/js/main.975cddd2.js"
+    "static/js/main.5a4f7e0c.js"
   ]
 }
