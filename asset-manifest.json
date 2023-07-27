@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.11ea8c28.css",
-    "main.js": "/static/js/main.cb2c05ec.js",
+    "main.css": "/static/css/main.c4c93c77.css",
+    "main.js": "/static/js/main.17ad7690.js",
     "static/js/787.b282cf0c.chunk.js": "/static/js/787.b282cf0c.chunk.js",
     "static/media/TsnCs.pdf": "/static/media/TsnCs.a09ff97ec35e2ea9a472.pdf",
-    "static/media/cover-image.svg": "/static/media/cover-image.0e8b805c9979d3babc2e.svg",
+    "static/media/cover-image.svg": "/static/media/cover-image.0e8b805c9979d3babc2ea177f8dc15a0.svg",
     "static/media/Nunito-Medium.ttf": "/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
     "static/media/Nunito-Light.ttf": "/static/media/Nunito-Light.0ec468f65958d1263b60.ttf",
     "static/media/Nunito-Regular.ttf": "/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
@@ -29,12 +29,12 @@
     "static/media/eight_ton.svg": "/static/media/eight_ton.63757ba93d3443e7047c0abd6b2c71c2.svg",
     "static/media/ppe.svg": "/static/media/ppe.481c9eb73de0a67ac0a4fab9f786bc81.svg",
     "index.html": "/index.html",
-    "main.11ea8c28.css.map": "/static/css/main.11ea8c28.css.map",
-    "main.cb2c05ec.js.map": "/static/js/main.cb2c05ec.js.map",
+    "main.c4c93c77.css.map": "/static/css/main.c4c93c77.css.map",
+    "main.17ad7690.js.map": "/static/js/main.17ad7690.js.map",
     "787.b282cf0c.chunk.js.map": "/static/js/787.b282cf0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11ea8c28.css",
-    "static/js/main.cb2c05ec.js"
+    "static/css/main.c4c93c77.css",
+    "static/js/main.17ad7690.js"
   ]
 }
