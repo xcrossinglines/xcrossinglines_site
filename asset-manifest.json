@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5db88571.css",
+    "main.js": "/static/js/main.e6f4db42.js",
+    "static/js/453.ad3f83a1.chunk.js": "/static/js/453.ad3f83a1.chunk.js",
+    "static/media/TsnCs.pdf": "/static/media/TsnCs.a09ff97ec35e2ea9a472.pdf",
+    "static/media/cover-image.svg": "/static/media/cover-image.dfe0ced992b91269c833.svg",
+    "static/media/Nunito-Medium.ttf": "/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
+    "static/media/Nunito-Light.ttf": "/static/media/Nunito-Light.0ec468f65958d1263b60.ttf",
+    "static/media/Nunito-Regular.ttf": "/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/Nunito-SemiBold.ttf": "/static/media/Nunito-SemiBold.77c1e330694154d3efed.ttf",
+    "static/media/Nunito-Bold.ttf": "/static/media/Nunito-Bold.f4338623f94e6079de97.ttf",
+    "static/media/Nunito-ExtraBold.ttf": "/static/media/Nunito-ExtraBold.99f1fa27c5aaa2c5afb6.ttf",
+    "static/media/Nunito-Black.ttf": "/static/media/Nunito-Black.969e95ce4a719e43f654.ttf",
+    "static/media/Nunito-ExtraLight.ttf": "/static/media/Nunito-ExtraLight.52e1b77fe0519dcdcc7f.ttf",
+    "static/media/team.svg": "/static/media/team.dc0f4f42968897b1f5dd3179be021371.svg",
+    "static/media/cancellation-fee.svg": "/static/media/cancellation-fee.48e7dc642d73c2c58464c27a40dde45f.svg",
+    "static/media/garden-refuse.svg": "/static/media/garden-refuse.b42ebf25e9900d2ca8ba37e5cbaef47e.svg",
+    "static/media/two_ton.svg": "/static/media/two_ton.0f894b9c25680ac4c619fb4d344f4a44.svg",
+    "static/media/logo_white.svg": "/static/media/logo_white.959dc4b427343830438b1c081be39b16.svg",
+    "static/media/maintained-vehicles.svg": "/static/media/maintained-vehicles.685c9ce2906d03174357a203b301db36.svg",
+    "static/media/four_ton.svg": "/static/media/four_ton.4e8e3b3a5bb663b77b9a3556abf3400e.svg",
+    "static/media/damage-tolerance.svg": "/static/media/damage-tolerance.303b54025f0ba2471a73031e5b7fd4f8.svg",
+    "static/media/home.svg": "/static/media/home.36d0c01f7cec67d12bfda4e1ad2a7306.svg",
+    "static/media/one_ton.svg": "/static/media/one_ton.02f38cc23db7cc7663493378001a8b18.svg",
+    "static/media/cost.svg": "/static/media/cost.1e98b527c98ef8e24b629a3aa96f9a4f.svg",
+    "static/media/delivery.svg": "/static/media/delivery.5774e8865260db577c0c0cf9ab4dc67e.svg",
+    "static/media/quote.svg": "/static/media/quote.fd9bb146ed1a7bdf79ca42c8c1bddde4.svg",
+    "static/media/one_point_five_ton.svg": "/static/media/one_point_five_ton.ceb35e016481fe22aaddc4408637f00a.svg",
+    "static/media/eight_ton.svg": "/static/media/eight_ton.6fa88faa8516123f3c47442a9bf83241.svg",
+    "static/media/ppe.svg": "/static/media/ppe.481c9eb73de0a67ac0a4fab9f786bc81.svg",
+    "index.html": "/index.html",
+    "main.5db88571.css.map": "/static/css/main.5db88571.css.map",
+    "main.e6f4db42.js.map": "/static/js/main.e6f4db42.js.map",
+    "453.ad3f83a1.chunk.js.map": "/static/js/453.ad3f83a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5db88571.css",
+    "static/js/main.e6f4db42.js"
+  ]
+}
